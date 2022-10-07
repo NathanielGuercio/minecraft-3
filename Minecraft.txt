@@ -1,0 +1,11 @@
+welcome to Minecraft
+
+It's like Minecraft but better
+
+/give @e diamonds x128
+
+/summon ender_dragon 0, 100, 0
+
+how do I add Herobrine?
+
+Mr. Boukai help me please
